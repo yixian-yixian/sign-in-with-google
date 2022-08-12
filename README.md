@@ -3,7 +3,7 @@
 
 The web application integrates Google Sign-in project using OAuth 2.0 to access Google APIs.
 
-**Demo:** [My Sign-in-with-Google](https://firstneverrest.github.io/Sign-in-with-Google/)
+**Demo:** [My Sign-in-with-Google](https://yixian-yixian.github.io/Sign-in-with-Google/)
 
 ### Technologies
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,4 +21,4 @@ The web application integrates Google Sign-in project using OAuth 2.0 to access 
 - When you click sign in with Google button, choose account and click refresh button, you will see your profile appear in the card.
 - When you click sign out button and click refresh button, you will see the dummy profile waiting user to sign in again.
 
-cloned from: 
+cloned from: https://firstneverrest.github.io/Sign-in-with-Google/
