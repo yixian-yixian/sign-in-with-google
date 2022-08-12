@@ -52,7 +52,7 @@ function HideProfileDisplayButton(){
 
 
 function refresh() {
-    document.location='https://firstneverrest.github.io/Sign-in-with-Google/'
+    document.location='https://yixian-yixian.github.io/sign-in-with-google/'
 }
 
 
