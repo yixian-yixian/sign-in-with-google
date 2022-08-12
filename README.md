@@ -20,3 +20,5 @@ The web application integrates Google Sign-in project using OAuth 2.0 to access 
 - I created the card to display user's image, name and email.
 - When you click sign in with Google button, choose account and click refresh button, you will see your profile appear in the card.
 - When you click sign out button and click refresh button, you will see the dummy profile waiting user to sign in again.
+
+cloned from: 
