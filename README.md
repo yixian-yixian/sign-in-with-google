@@ -3,7 +3,7 @@
 
 The web application integrates Google Sign-in project using OAuth 2.0 to access Google APIs.
 
-**Demo:** [My Sign-in-with-Google](https://yixian-yixian.github.io/Sign-in-with-Google/)
+**Demo:** [My Sign-in-with-Google](https://yixian-yixian.github.io/sign-in-with-google/)
 
 ### Technologies
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
